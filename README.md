@@ -3,9 +3,15 @@
 
 First version to test DAC for a digital control for a threshold comparator.
 
-# Data sheet
+## Components
+DAC
 DAC8551
 http://www.ti.com/product/DAC8551
+
+Voltage reference
+ADR02ARZ
+https://www.analog.com/en/products/adr02.html
+
 
 ## Pin-out
 This example uses VSPI port (this name is probably for Very high...)
