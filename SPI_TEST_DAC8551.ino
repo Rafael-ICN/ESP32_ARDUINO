@@ -8,7 +8,7 @@
  * of these buses both can be used. However when just using these the Arduino
  * way only will actually be outputting at a time.
  * 
- * SPI TESTBENCH FOR TI DAC8551
+ * SPI TESTBENCH FOR TI DAC8551/DAC7551
  * 
  */
 #include <SPI.h>
